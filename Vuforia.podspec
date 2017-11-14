@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Vuforia"
-  s.version      = "6.5.23"
+  s.version      = "6.5.25"
   s.summary      = "A short description of Vuforia."
 
   # This description is used to generate tags and improve search results.
@@ -65,10 +65,10 @@ Whaaaatsup
   #
 
   # s.platform     = :ios
-  s.platform     = :ios, "7.1"
+  s.platform     = :ios, "10.0"
 
   #  When using multiple platforms
-  s.ios.deployment_target = "5.0"
+  s.ios.deployment_target = "10.0"
   # s.osx.deployment_target = "10.7"
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
